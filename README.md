@@ -1,6 +1,6 @@
 # Aitor Barrios García
 
-Soy Aitor Barrios, desarrollador de Aplicaciones Multiplataforma y apasionado de la tecnología.
+Soy Aitor Barrios, desarrollador de Aplicaciones Multiplataforma y estudiante de Desarrollo de Aplicaciones Web.
 
 ## Descripción
 
@@ -26,7 +26,7 @@ Estudiante del ciclo formativo de grado superior de Desarrollo de Aplicaciones M
 
 ## Proyectos
 
-### [GesBBall]()
+### [GesBBall](https://github.com/Aitor-BG/GesBBall)
 Aplicación de asistencia estadística y táctica para el baloncesto, pensada para segundos entrenadores y/o ayudantes de equipo. Utilizando tecnologías como Kotlin y Firebase (Realtime Database).
 
 ### [Proyecto de Prácticas]()
