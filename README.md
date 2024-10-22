@@ -1,6 +1,6 @@
 # Aitor Barrios García
 
-Soy Aitor Barrios, desarrollador de Aplicaciones Multiplataforma y estudiante de Desarrollo de Aplicaciones Web.
+Soy Aitor Barrios, Desarrollador de Aplicaciones Multiplataforma y estudiante de Desarrollo de Aplicaciones Web.
 
 ## Descripción
 
@@ -8,7 +8,7 @@ Estudiante del ciclo formativo de grado superior de Desarrollo de Aplicaciones M
 
 ## Habilidades
 
-- **Lenguajes de Programación**: Java, Kotlin, Python, C#, HTML, CSS
+- **Lenguajes de Programación**: Java, Kotlin, Python, C# (Unity), HTML, CSS, PHP, Javascript
 - **Bases de Datos**: MySQL, MongoDB
 - **Herramientas y Tecnologías**: Google Cloud Platform, Tableau, Looker Studio, Firebase
 
@@ -20,7 +20,7 @@ Estudiante del ciclo formativo de grado superior de Desarrollo de Aplicaciones M
 - Creación de un proyecto con diversas tecnologías: Google Cloud Platform, MySQL, Looker Studio
 
 ## Educación
-
+- **Estudiante Desarrollo de Aplicaciones Web** - AlboradaFP (Alcalá de Henares) *Actualidad*
 - **Titulación en Desarrollo de Aplicaciones Multuplataforma** - CampusFP (Alcalá de Henares), 2024
 - **Titulación Bachillerato Tecnológico** - IES Luis de Góngora (Torrejón de Ardoz), 2022
 
