@@ -1,14 +1,14 @@
 # Aitor Barrios García
 
-Soy Aitor Barrios, Desarrollador de Aplicaciones Multiplataforma y estudiante de Desarrollo de Aplicaciones Web.
+Soy Aitor Barrios, Técnico Superior en Desarrollo de Aplicaciones Multiplataforma y estudiante de Desarrollo de Aplicaciones Web.
 
 ## Descripción
 
-Estudiante del ciclo formativo de grado superior de Desarrollo de Aplicaciones Multiplataforma (DAM) / WEB (DAW), apasionado en la informática y adquirir más conocimiento e interesado en ampliar sus conocimientos en el sector de la informática y el desarrollo de aplicaciones, con el fin de dedicarme a ser programador / desarrollador en una empresa.
+Estudiante del ciclo formativo de grado superior de Desarrollo de Aplicaciones WEB (DAW) y títulado en Multiplataforma (DAM), apasionado en la informática y adquirir más conocimiento e interesado en ampliar sus conocimientos en el sector de la informática y el desarrollo de aplicaciones, con el fin de dedicarme a ser programador / desarrollador en una empresa.
 
 ## Habilidades
 
-- **Lenguajes de Programación**: Java, Kotlin, Python, C# (Unity), HTML, CSS, PHP, Javascript
+- **Lenguajes de Programación**: Java, Kotlin, Python, C# (Unity), HTML, CSS, PHP, Javascript, Laravel, Spring
 - **Bases de Datos**: MySQL, MongoDB
 - **Herramientas y Tecnologías**: Google Cloud Platform, Tableau, Looker Studio, Firebase
 
