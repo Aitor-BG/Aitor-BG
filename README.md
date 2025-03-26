@@ -29,6 +29,9 @@ Estudiante del ciclo formativo de grado superior de Desarrollo de Aplicaciones W
 ### [GesBBall - TFG Desarrollo de Aplicaciones Multiplataforma](https://github.com/Aitor-BG/GesBBall)
 Aplicación de asistencia estadística y táctica para el baloncesto, pensada para segundos entrenadores y/o ayudantes de equipo. Utilizando tecnologías como Kotlin y Firebase (Realtime Database).
 
+### [TCGNetwork - TFG Desarrollo de Aplicaciones Web]
+Aplicación web para la gestión de una tienda especializada en Trading Card Games (Magic: The Gathering, One Piece TCG, Pokemon TCG...) enfoncada tanto en la compra y oferta de sus productos como la gestión de los torneos de TCG, con implementación de vista de usuario para seguir estos torneos.
+
 ### Proyecto de Prácticas - DAM
 Proyecto para exponer las tecnologías aprendidas, utilización de Google Cloud Platform (CloudSQL) y Looker Studio para la creación de informes acerca de una propuesta de estudio sobre una tienda de juegos de mesa y Trading Card Games.
 
