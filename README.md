@@ -26,7 +26,7 @@ Estudiante del ciclo formativo de grado superior de Desarrollo de Aplicaciones W
 
 ## Proyectos
 
-### [GesBBall - TFG Desarrollo de Aplicaciones Multiplataforma](https://github.com/Aitor-BG/GesBBall)
+### [GesBBall - TFG Desarrollo de Aplicaciones Multiplataforma]
 Aplicación de asistencia estadística y táctica para el baloncesto, pensada para segundos entrenadores y/o ayudantes de equipo. Utilizando tecnologías como Kotlin y Firebase (Realtime Database).
 
 ### [TCGNetwork - TFG Desarrollo de Aplicaciones Web]
